@@ -1,4 +1,4 @@
-# Advacned Operating System
+# Advanced Operating System
 ## Assignment No 1
 `To compile the application run "g++ main.cpp" command on terminal`
 
